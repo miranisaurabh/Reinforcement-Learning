@@ -1,4 +1,4 @@
-# CartPole3D_RL
+# Reinforcement Learning
 
 Implementation of:
 
